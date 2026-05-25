@@ -513,3 +513,6 @@ git push
 - Project pushed to GitHub
 
 ---
+ # #   I n s u r a n c e   E D A   B r a n c h   U p d a t e 
+ A d d e d   p u l l   r e q u e s t   w o r k f l o w   u p d a t e .  
+ 
